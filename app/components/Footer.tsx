@@ -14,10 +14,10 @@ function Footer() {
     <section id="footer">
       <footer className="p-6">
         <div className="flex lg:hidden justify-center gap-8">
-          <a href="https://github.com/darrellrahan">
+          <a href="https://github.com/blankedwave">
             <FiGithub className="text-[#a8b2d1] hover:text-[#64ffda] hover:-translate-y-[3px] duration-100 ease-linear text-2xl" />
           </a>
-          <a href="https://www.instagram.com/darrell.rr">
+          <a href="https://www.instagram.com/qil.jpeg">
             <AiOutlineInstagram className="text-[#a8b2d1] hover:text-[#64ffda] hover:-translate-y-[3px] duration-100 ease-linear text-2xl" />
           </a>
         </div>
