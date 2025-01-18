@@ -26,21 +26,19 @@ function About() {
             </div>
             <div className="text-[#8892b0] space-y-4 mt-8">
               <p>
-                Hello! My name is Darrell and I enjoy creating things that live
-                on the internet. My interest in programming started back in 2022
-                when I decided to learn about C# for my high school assignment!
+                Hello! My name is Aqil, and I enjoy creating solutions and content that connect with people. 
+                My interest in technology started during my geek era when I explored programming, 
+                content creation, and troubleshooting as part of my studies and hobbies.
               </p>
               <p>
-                Fast-forward to today, I possess an impressive arsenal of skills
-                in HTML, CSS, JavaScript, TypeScript, React, Next.js, and
-                Tailwind. I excel in maintaining responsive websites that offer
-                a smooth user experience.
+                Fast-forward to today, I possess a basic set of skills
+                in HTML, CSS, JavaScript, C++, Laravel, Python, and
+                Java.
               </p>
               <p>
-                My expertise lies in writing clean and optimized code and
-                utilizing cutting-edge development tools and techniques. I am
-                also a team player who thrives in collaborating with
-                cross-functional teams to produce outstanding web applications.
+                My expertise lies in basic troubleshooting and multimedia editing.
+                I am a jack of all trades and master of none which means I have basic skills
+                in others like Machine Learning, Data Prediction, Sentiment Analysis and so on.
               </p>
               <p>
                 Here are a few technologies I've been working with recently:
@@ -50,19 +48,19 @@ function About() {
               >
                 <div className="flex items-center gap-2">
                   <span className="text-[#64ffda]">▹</span>
-                  <span>Next.js</span>
+                  <span>Microsoft PowerBI</span>
                 </div>
                 <div className="flex items-center gap-2">
                   <span className="text-[#64ffda]">▹</span>
-                  <span>TypeScript</span>
+                  <span>Python</span>
                 </div>
                 <div className="flex items-center gap-2">
                   <span className="text-[#64ffda]">▹</span>
-                  <span>Tailwind</span>
+                  <span>C++</span>
                 </div>
                 <div className="flex items-center gap-2">
                   <span className="text-[#64ffda]">▹</span>
-                  <span>React</span>
+                  <span>Laravel</span>
                 </div>
                 <div className="flex items-center gap-2">
                   <span className="text-[#64ffda]">▹</span>
