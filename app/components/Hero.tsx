@@ -19,16 +19,16 @@ function Hero() {
             </h3>
             <div>
               <h1 className="text-[#ccd6f6] text-[2rem] leading-[2.5rem] font-bold lg:text-7xl lg:leading-[5.25rem]">
-                Darrell Rafa Raihan.
+                Muhammad Aqil Ismail.
               </h1>
               <h1 className="text-[#8892b0] text-[2rem] leading-[2.5rem] font-bold lg:text-7xl lg:leading-[5.25rem]">
-                Frontend Developer.
+                IT Professional.
               </h1>
             </div>
             <p className="text-[#8892b0] lg:w-[32rem]">
-              Hi, I'm Darrell Rafa Raihan. A passionate frontend developer
-              specializing in building exceptional digital experiences. Based in
-              Bandung, Indonesia.
+              Hi, I'm Muhammad Aqil Ismail. A passionate IT professional
+              specializing in providing exceptional digital solutions. Based in
+              Kelantan, Malaysia.
             </p>
             <a
               href="#about"
