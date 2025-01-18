@@ -24,9 +24,9 @@ function Footer() {
         <p
           className={`${firaCode.className} text-xs leading-loose mt-6 text-[#a8b2d1] text-center`}
         >
-          Built  by
+          
           <br />
-          &copy; Muhammad Aqil Ismail 2025
+          &copy;Muhammad Aqil Ismail 2025
         </p>
       </footer>
     </section>
