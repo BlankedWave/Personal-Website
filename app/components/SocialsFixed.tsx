@@ -16,7 +16,7 @@ function SocialsFixed() {
     <section id="socials-fixed">
       <div className="hidden lg:flex flex-col gap-6 fixed left-12 bottom-0 z-10">
         <RevealWrapper origin="bottom">
-          <a href="https://www.linkedin.com/in/darrellrahan">
+          <a href="https://www.linkedin.com/in/muhammadaqilismail">
             <CiLinkedin
               fontSize="1.75rem"
               className="text-[#a8b2d1] hover:text-[#64ffda] hover:-translate-y-[3px] duration-100 ease-linear"
@@ -24,7 +24,7 @@ function SocialsFixed() {
           </a>
         </RevealWrapper>
         <RevealWrapper origin="bottom">
-          <a href="https://github.com/darrellrahan">
+          <a href="https://github.com/blankedwave">
             <FiGithub
               fontSize="1.5rem"
               className="text-[#a8b2d1] hover:text-[#64ffda] hover:-translate-y-[3px] duration-100 ease-linear"
@@ -32,7 +32,7 @@ function SocialsFixed() {
           </a>
         </RevealWrapper>
         <RevealWrapper origin="bottom">
-          <a href="https://www.instagram.com/darrell.rr">
+          <a href="https://www.instagram.com/qil.jpeg">
             <AiOutlineInstagram
               fontSize="1.5rem"
               className="text-[#a8b2d1] hover:text-[#64ffda] hover:-translate-y-[3px] duration-100 ease-linear"
@@ -46,7 +46,7 @@ function SocialsFixed() {
       <div className="hidden lg:flex flex-col fixed -right-8 bottom-0 z-10">
         <a
           className={`${firaCode.className} text-sm tracking-[1.5px] -translate-y-28 rotate-90 text-[#a8b2d1] hover:text-[#64ffda] hover:-translate-y-[7.1875rem] duration-100 ease-linear`}
-          href="mailto:drafa0609@gmail.com"
+          href="mailto:aqil2401@gmail.com"
         >
           drafa0609@gmail.com
         </a>
