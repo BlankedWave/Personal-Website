@@ -9,7 +9,7 @@ const inter = Inter({
 });
 
 export const metadata = {
-  title: "Darrell Rafa Raihan",
+  title: "Muhammad Aqil Ismail",
   description: "Personal Portofolio Website",
 };
 
