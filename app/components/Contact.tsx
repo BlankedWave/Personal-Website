@@ -29,7 +29,7 @@ function Contact() {
           </div>
           <div className="mt-12 flex justify-center">
             <a
-              href="mailto:drafa0609@gmail.com"
+              href="mailto:aqil2401@gmail.com"
               className={`${firaCode.className} border border-[#64ffda] text-[#64ffda] py-4 px-8 text-sm rounded hover:shadow-[4px_4px_0_0_#64ffda] hover:-translate-x-[5px] hover:-translate-y-[5px] duration-300 ease-linear`}
             >
               Say Hello
