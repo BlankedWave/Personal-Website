@@ -26,7 +26,7 @@ function Footer() {
         >
           
           <br />
-          &copy;Muhammad Aqil Ismail 2025
+          &copy; Muhammad Aqil Ismail 2025
         </p>
       </footer>
     </section>
